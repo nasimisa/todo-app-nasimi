@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-app-nasimi/static/css/main.c189d6e0.css",
+    "main.js": "/todo-app-nasimi/static/js/main.caeedf23.js",
+    "index.html": "/todo-app-nasimi/index.html",
+    "main.c189d6e0.css.map": "/todo-app-nasimi/static/css/main.c189d6e0.css.map",
+    "main.caeedf23.js.map": "/todo-app-nasimi/static/js/main.caeedf23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c189d6e0.css",
+    "static/js/main.caeedf23.js"
+  ]
+}
